@@ -1,1 +1,1 @@
-# balta-node-api
+# study case, still WIP (working in progress)!
