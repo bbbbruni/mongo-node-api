@@ -1,1 +1,1 @@
-# study case, still WIP (working in progress)!
+# Study case, still WIP (working in progress)!
